@@ -277,7 +277,7 @@ with gr.Blocks(
     gr.Markdown(
         "# 🤠 The Good, The Bad & The Ugly\n"
         "Three personas. One topic. Powered by [OpenRouter](https://openrouter.ai). "
-        "The Space owner must set **`OPENROUTER_API_KEY`** as a repository secret."
+        
     )
     with gr.Row():
         with gr.Column(scale=1):
